@@ -1,0 +1,13 @@
+#footer {
+    position:fixed;
+    left:0px;
+    bottom:0px;
+    height:30px;
+    width:100%;
+    background-color:#292c2f;
+    text-align: center;
+    font-size: 1.5em;
+    box-shadow:1px 1px 1px #ccc;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #ffffff;
+}

@@ -1,0 +1,46 @@
+
+.buttonnav{
+	box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 10px;
+    -webkit-transition-duration: 0.4s;
+    /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+    background-color: white;
+    color: black;
+    border: 3px solid;
+    border-image-source: linear-gradient(to right, #25c481, #89E8C2);
+    border-image-slice: 1;
+}
+.buttonnav:hover{
+	background-image: linear-gradient(to right, #25c481, #89E8C2);
+    padding: 16px 64px 16px 64px;
+    color: white;
+    font-weight: bolder;
+}
+.navgumb{
+	display: grid;
+	justify-content: center;
+}
+#buttonnav{
+	display: grid;
+	justify-content: center;
+	margin-top: 7%;	
+}
+#dobrodosli{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    width: 100%;
+    font-weight: bold;
+    padding-top: 1%;
+    font-size: 20px;
+    color: #47494c;
+    text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
+}

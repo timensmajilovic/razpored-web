@@ -1,0 +1,108 @@
+[16-Jun-2020 21:26:13 Europe/Ljubljana] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home/timensma/public_html/razpored/zaposleni/zaposleni_edit.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/timensma/public_html/razpored/zaposleni/zaposleni_edit.php on line 52
+[16-Jun-2020 21:26:13 Europe/Ljubljana] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home/timensma/public_html/razpored/zaposleni/zaposleni_edit.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/timensma/public_html/razpored/zaposleni/zaposleni_edit.php on line 52
+[16-Jun-2020 21:26:14 Europe/Ljubljana] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home/timensma/public_html/razpored/zaposleni/zaposleni_edit.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/timensma/public_html/razpored/zaposleni/zaposleni_edit.php on line 52
+[16-Jun-2020 21:26:18 Europe/Ljubljana] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home/timensma/public_html/razpored/zaposleni/zaposleni_edit.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/timensma/public_html/razpored/zaposleni/zaposleni_edit.php on line 52
+[16-Jun-2020 21:26:20 Europe/Ljubljana] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home/timensma/public_html/razpored/zaposleni/zaposleni_edit.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/timensma/public_html/razpored/zaposleni/zaposleni_edit.php on line 52
+[16-Jun-2020 21:26:31 Europe/Ljubljana] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home/timensma/public_html/razpored/zaposleni/zaposleni_edit.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/timensma/public_html/razpored/zaposleni/zaposleni_edit.php on line 52
+[16-Jun-2020 21:26:34 Europe/Ljubljana] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home/timensma/public_html/razpored/zaposleni/zaposleni_edit.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/timensma/public_html/razpored/zaposleni/zaposleni_edit.php on line 52
+[16-Jun-2020 21:26:38 Europe/Ljubljana] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home/timensma/public_html/razpored/zaposleni/zaposleni_edit.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/timensma/public_html/razpored/zaposleni/zaposleni_edit.php on line 52
+[16-Jun-2020 21:27:20 Europe/Ljubljana] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home/timensma/public_html/razpored/zaposleni/zaposleni_edit.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/timensma/public_html/razpored/zaposleni/zaposleni_edit.php on line 51
+[16-Jun-2020 21:27:20 Europe/Ljubljana] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home/timensma/public_html/razpored/zaposleni/zaposleni_edit.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/timensma/public_html/razpored/zaposleni/zaposleni_edit.php on line 51
+[16-Jun-2020 21:27:21 Europe/Ljubljana] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home/timensma/public_html/razpored/zaposleni/zaposleni_edit.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/timensma/public_html/razpored/zaposleni/zaposleni_edit.php on line 51
+[16-Jun-2020 21:27:22 Europe/Ljubljana] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home/timensma/public_html/razpored/zaposleni/zaposleni_edit.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/timensma/public_html/razpored/zaposleni/zaposleni_edit.php on line 51
+[16-Jun-2020 21:27:22 Europe/Ljubljana] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home/timensma/public_html/razpored/zaposleni/zaposleni_edit.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/timensma/public_html/razpored/zaposleni/zaposleni_edit.php on line 51
+[16-Jun-2020 21:28:03 Europe/Ljubljana] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home/timensma/public_html/razpored/zaposleni/zaposleni_edit.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/timensma/public_html/razpored/zaposleni/zaposleni_edit.php on line 58
+[16-Jun-2020 21:28:04 Europe/Ljubljana] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home/timensma/public_html/razpored/zaposleni/zaposleni_edit.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/timensma/public_html/razpored/zaposleni/zaposleni_edit.php on line 58
+[16-Jun-2020 21:28:05 Europe/Ljubljana] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home/timensma/public_html/razpored/zaposleni/zaposleni_edit.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/timensma/public_html/razpored/zaposleni/zaposleni_edit.php on line 58
+[16-Jun-2020 21:28:05 Europe/Ljubljana] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home/timensma/public_html/razpored/zaposleni/zaposleni_edit.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/timensma/public_html/razpored/zaposleni/zaposleni_edit.php on line 58
+[16-Jun-2020 21:28:06 Europe/Ljubljana] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home/timensma/public_html/razpored/zaposleni/zaposleni_edit.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/timensma/public_html/razpored/zaposleni/zaposleni_edit.php on line 58
+[16-Jun-2020 21:28:18 Europe/Ljubljana] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home/timensma/public_html/razpored/zaposleni/zaposleni_edit.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/timensma/public_html/razpored/zaposleni/zaposleni_edit.php on line 58
+[16-Jun-2020 21:28:19 Europe/Ljubljana] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home/timensma/public_html/razpored/zaposleni/zaposleni_edit.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/timensma/public_html/razpored/zaposleni/zaposleni_edit.php on line 58
+[16-Jun-2020 21:28:20 Europe/Ljubljana] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home/timensma/public_html/razpored/zaposleni/zaposleni_edit.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/timensma/public_html/razpored/zaposleni/zaposleni_edit.php on line 58
+[16-Jun-2020 21:28:21 Europe/Ljubljana] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home/timensma/public_html/razpored/zaposleni/zaposleni_edit.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/timensma/public_html/razpored/zaposleni/zaposleni_edit.php on line 58
+[16-Jun-2020 21:28:21 Europe/Ljubljana] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home/timensma/public_html/razpored/zaposleni/zaposleni_edit.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/timensma/public_html/razpored/zaposleni/zaposleni_edit.php on line 58
+[16-Jun-2020 21:28:22 Europe/Ljubljana] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home/timensma/public_html/razpored/zaposleni/zaposleni_edit.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/timensma/public_html/razpored/zaposleni/zaposleni_edit.php on line 58
+[16-Jun-2020 21:28:22 Europe/Ljubljana] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home/timensma/public_html/razpored/zaposleni/zaposleni_edit.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/timensma/public_html/razpored/zaposleni/zaposleni_edit.php on line 58
+[16-Jun-2020 21:28:22 Europe/Ljubljana] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home/timensma/public_html/razpored/zaposleni/zaposleni_edit.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/timensma/public_html/razpored/zaposleni/zaposleni_edit.php on line 58
+[16-Jun-2020 21:28:53 Europe/Ljubljana] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home/timensma/public_html/razpored/zaposleni/zaposleni_edit.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/timensma/public_html/razpored/zaposleni/zaposleni_edit.php on line 58
